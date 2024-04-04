@@ -1,23 +1,10 @@
-# c17-119-m-php
-
-<response>
-Readme del Proyecto de Adopción de Mascotas
+# Adopción de Mascotas
 
 ## Descripción
-Este proyecto es una plataforma en línea para facilitar el proceso de adopción de mascotas, conectando a usuarios interesados en adoptar con refugios y personas que rescatan animales. La aplicación permite a los usuarios registrados buscar mascotas, solicitar adopciones, publicar información sobre mascotas perdidas y seguir el proceso de adopción. Los refugios pueden registrar mascotas en adopción y gestionar solicitudes de adopción, mientras que los administradores garantizan la calidad y seguridad de la plataforma.
+Este proyecto es una plataforma en línea para facilitar el proceso de adopción de mascotas, conectando a usuarios interesados en adoptar con refugios y personas que rescatan animales. La aplicación permite a los usuarios buscar mascotas, solicitar adopciones, publicar información sobre mascotas perdidas y seguir el proceso de adopción. Los refugios pueden registrar mascotas en adopción y gestionar solicitudes de adopción, mientras que los administradores garantizan la calidad y seguridad de la plataforma.
 
-## Características Esenciales
-1. **Búsqueda y Solicitud de Adopción:** Los usuarios pueden buscar y solicitar adopciones de mascotas en línea.
-2. **Registro y Gestión de Mascotas en Adopción:** Los refugios pueden registrar y gestionar mascotas en adopción.
-3. **Seguimiento Continuo:** Los usuarios pueden seguir el proceso de adopción de manera continua.
-4. **Seguridad y Gestión:** Los administradores se encargan de garantizar la seguridad y calidad de la plataforma.
-5. **Registro de Mascotas Perdidas:** Las personas pueden registrar mascotas perdidas para encontrarles un hogar.
-
-## Tipo de Usuarios
-1. **Usuario Registrado:** Tiene acceso completo a todas las funcionalidades de la plataforma.
-2. **Usuario Anónimo:** Puede ver información básica de las mascotas y la plataforma.
-3. **Refugio:** Puede registrar mascotas en adopción y gestionar solicitudes de adopción.
-4. **Administradores:** Gestionan la plataforma y garantizan su calidad y seguridad.
+## Wireframes en figma
+https://www.figma.com/file/kUdFA8kSD437VmawvX9Uyn/SURAMIGO-App?type=design&node-id=0%3A1&mode=design&t=kPIOUSOaasPIfGW8-1
 
 ## Proceso de Adopción (MVP)
 1. El usuario navega la aplicación sin iniciar sesión.
@@ -27,6 +14,22 @@ Este proyecto es una plataforma en línea para facilitar el proceso de adopción
 5. Envía solicitudes de adopción y los refugios revisan.
 6. Las solicitudes pueden estar aprobadas, rechazadas o pendientes.
 7. Si es aprobada, se cambia el estado a "Adoptado".
+
+## Colaboradores
+  - Mariano Ivasiuta           Backend     Ln: https://www.linkedin.com/in/marianoivasiuta/
+  - Lourdes Ibañez             Backend     Ln: https://www.linkedin.com/in/lourdes-iba%C3%B1ez-baa056284?
+  - Miguel Cañate Barreneche   Frontend    Ln: https://www.linkedin.com/in/miguelcbarreneche/
+  - Jesus Manuel Cespedes      Backend     Ln: https://ar.linkedin.com/in/cespedes-jesus-manuel-5b1307250
+  - Jose Luis Capote           Frontend    Ln: https://www.linkedin.com/in/jose-luis-capote-dsw/
+
+## Tecnologias
+  - PHP
+  - Laravel
+  - React
+  - Vite
+  - Supabase
+  - PostgreSQL
+
 <!--
 ## Instrucciones de Instalación y Uso
 1. Clona este repositorio.
