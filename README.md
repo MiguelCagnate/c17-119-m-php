@@ -34,13 +34,13 @@ https://www.figma.com/file/kUdFA8kSD437VmawvX9Uyn/SURAMIGO-App?type=design&node-
 
 
 ## Tecnologias
-  - PHP
-  - Laravel
-  - React
-  - Vite
-  - Supabase
-  - PostgreSQL
-  - Figma
+  - [PHP](https://www.php.net/)
+  - [Laravel](https://laravel.com/)
+  - [React](https://es.react.dev/)
+  - [Vite](https://vitejs.dev/)
+  - [Supabase](https://supabase.com/)
+  - [PostgreSQL](https://www.postgresql.org/)
+  - [Figma](https://www.figma.com/)
 <div align="center">
 	<table>
 		<tr>
