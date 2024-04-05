@@ -8,6 +8,7 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
 use Laravel\Sanctum\HasApiTokens;
 
+
 class User extends Authenticatable
 {
     use HasApiTokens, HasFactory, Notifiable;
@@ -18,10 +19,20 @@ class User extends Authenticatable
      * @var array<int, string>
      */
     protected $fillable = [
-        'name',
         'email',
         'password',
+        'role_id',
     ];
+
+    //para establecer la relacion 1 a n con rol
+    public function role(){
+        return $this->belongsTo(Role::class);
+    }
+
+    //por la relacion 1 a 1 con person
+    public function person(){
+        return $this->hasOne(Person::class);
+    }
 
     /**
      * The attributes that should be hidden for serialization.
