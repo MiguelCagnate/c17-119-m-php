@@ -22,6 +22,7 @@ https://www.figma.com/file/kUdFA8kSD437VmawvX9Uyn/SURAMIGO-App?type=design&node-
 7. Si es aprobada, se cambia el estado a "Adoptado".
 
 ## Colaboradores
+  - Maria Esquivel Fernandez   Frontend	   Ln: https://www.linkedin.com/in/maria-esquivel-fernandez-a07114285 
   - Mariano Ivasiuta           Backend     Ln: https://www.linkedin.com/in/marianoivasiuta/
   - Lourdes Ibañez             Backend     Ln: https://www.linkedin.com/in/lourdes-iba%C3%B1ez-baa056284?
   - Miguel Cañate Barreneche   Frontend    Ln: https://www.linkedin.com/in/miguelcbarreneche/
