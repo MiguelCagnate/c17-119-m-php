@@ -1,6 +1,8 @@
 <p align="center"> <img src="https://github.com/No-Country/c17-119-m-php/assets/94227693/41a2973d-1d88-4ef6-ad9d-2ff227e059f0"> </p>
 
-
+   <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   </p>
 
 # Adopción de Mascotas
 
@@ -25,6 +27,7 @@ https://www.figma.com/file/kUdFA8kSD437VmawvX9Uyn/SURAMIGO-App?type=design&node-
   - Miguel Cañate Barreneche   Frontend    Ln: https://www.linkedin.com/in/miguelcbarreneche/
   - Jesus Manuel Cespedes      Backend     Ln: https://ar.linkedin.com/in/cespedes-jesus-manuel-5b1307250
   - Jose Luis Capote           Frontend    Ln: https://www.linkedin.com/in/jose-luis-capote-dsw/
+
 
 ## Tecnologias
   - PHP
