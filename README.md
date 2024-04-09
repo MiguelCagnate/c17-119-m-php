@@ -33,26 +33,16 @@ https://www.figma.com/file/kUdFA8kSD437VmawvX9Uyn/SURAMIGO-App?type=design&node-
 | --- | --- | --- | --- | --- |
 
 
-## Tecnologias
-  - [PHP](https://www.php.net/)
-  - [Laravel](https://laravel.com/)
-  - [React](https://es.react.dev/)
-  - [Vite](https://vitejs.dev/)
-  - [Supabase](https://supabase.com/)
-  - [PostgreSQL](https://www.postgresql.org/)
-  - [Figma](https://www.figma.com/)
-<div align="center">
-	<table>
-		<tr>
-			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" alt="php (elephpant)" title="php (elephpant)"/></code></td>
-			<td><code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
-			<td><code><img width="40" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/></code></td>
-			<td><code><img width="40" src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" alt="Supabase" title="Supabase"/></code></td>         			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code></td>
-			<td><code><img width="40" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
-		</tr>
-	</table>
-</div>
+## Tecnologías
+
+<img width="25" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" alt="php (elephpant)" title="php (elephpant)"/>[PHP](https://www.php.net/)
+<img width="25" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/>[Laravel](https://laravel.com/)
+<img width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>[React](https://es.react.dev/)
+<img width="25" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>[Vite](https://vitejs.dev/)
+<img width="25" src="https://raw.githubusercontent.com/github/explore/f4ec5347a36e06540a69376753a7c37a8cb5a136/topics/supabase/supabase.png" alt="Supabase" title="Supabase"/>[Supabase](https://supabase.com/)
+<img width="25" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>[PostgreSQL](https://www.postgresql.org/)
+<img width="25" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>[Figma](https://www.figma.com/)
+
 <!--
 ## Instrucciones de Instalación y Uso
 1. Clona este repositorio.
