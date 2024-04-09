@@ -10,7 +10,7 @@
 Este proyecto es una plataforma en línea para facilitar el proceso de adopción de mascotas, conectando a usuarios interesados en adoptar con refugios y personas que rescatan animales. La aplicación permite a los usuarios buscar mascotas, solicitar adopciones, publicar información sobre mascotas perdidas y seguir el proceso de adopción. Los refugios pueden registrar mascotas en adopción y gestionar solicitudes de adopción, mientras que los administradores garantizan la calidad y seguridad de la plataforma.
 
 ## Wireframes en figma
-https://www.figma.com/file/kUdFA8kSD437VmawvX9Uyn/SURAMIGO-App?type=design&node-id=0%3A1&mode=design&t=kPIOUSOaasPIfGW8-1
+[Figma](https://www.figma.com/file/kUdFA8kSD437VmawvX9Uyn/SURAMIGO-App?type=design&node-id=0%3A1&mode=design&t=kPIOUSOaasPIfGW8-1)
 
 ## Proceso de Adopción (MVP)
 1. El usuario navega la aplicación sin iniciar sesión.
