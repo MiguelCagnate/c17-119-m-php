@@ -63,3 +63,23 @@ Para preguntas o sugerencias, contáctanos en [correo electrónico] o [redes soc
 -->
 
 </response>
+
+
+<!--
+## Instrucciones de Instalación y Uso
+1. Clona este repositorio.
+2. Instala las dependencias necesarias.
+3. Configura la base de datos y entorno de desarrollo.
+4. Ejecuta la aplicación y sigue las instrucciones proporcionadas en la documentación.
+
+## Contribución
+¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue las pautas de contribución y envía tus solicitudes de extracción.
+
+## Licencia
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## Contacto
+Para preguntas o sugerencias, contáctanos en [correo electrónico] o [redes sociales].
+-->
+
+</response>
