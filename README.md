@@ -22,12 +22,13 @@ Este proyecto es una plataforma en línea para facilitar el proceso de adopción
 7. Si es aprobada, se cambia el estado a "Adoptado".
 
 ## Colaboradores
-- [Maria Esquivel Fernandez * Frontend](https://www.linkedin.com/in/maria-esquivel-fernandez-a07114285)
-- [Mariano Ivasiuta * Backend](https://www.linkedin.com/in/marianoivasiuta/)
-- [Lourdes Ibañez * Backend](https://www.linkedin.com/in/lourdes-iba%C3%B1ez-baa056284?)
-- [Miguel Cañate Barreneche * Frontend](https://www.linkedin.com/in/miguelcbarreneche/)
-- [Jesus Manuel Cespedes * Backend](https://ar.linkedin.com/in/cespedes-jesus-manuel-5b1307250)
-- [Jose Luis Capote * Frontend](https://www.linkedin.com/in/jose-luis-capote-dsw/)
+
+| Frontend                                  | Backend                                  |
+|-------------------------------------------|------------------------------------------|
+| [Maria Esquivel Fernandez](https://www.linkedin.com/in/maria-esquivel-fernandez-a07114285) | [Mariano Ivasiuta](https://www.linkedin.com/in/marianoivasiuta/)             |
+| [Miguel Cañate Barreneche](https://www.linkedin.com/in/miguelcbarreneche/) | [Lourdes Ibañez](https://www.linkedin.com/in/lourdes-iba%C3%B1ez-baa056284?) |
+| [Jose Luis Capote](https://www.linkedin.com/in/jose-luis-capote-dsw/)           | [Jesus Manuel Cespedes](https://ar.linkedin.com/in/cespedes-jesus-manuel-5b1307250)     |
+
 
 
 [<img src="https://avatars.githubusercontent.com/u/81333168?v=4" width=100><br><sub>Mariano Ivasiuta</sub>](https://github.com/MarianoIvasiuta26) | [<img src="https://avatars.githubusercontent.com/u/79941492?v=4" width=100><br><sub>Lourdes Ibañez</sub>](https://github.com/lourdesibanez) | [<img src="https://avatars.githubusercontent.com/u/34587375?v=4" width=100><br><sub>Jesus Cespedes</sub>](https://github.com/manuelc79) | [<img src="https://media.licdn.com/dms/image/D4D03AQHCpPEY23hOyg/profile-displayphoto-shrink_200_200/0/1709688379033?e=2147483647&v=beta&t=WifcSUoIKV7mBOXGwDTK2o9ncfPie-KfQTmRPmqCzow" width=100><br><sub>Maria Esquivel</sub>](https://github.com/MariaEsquivelf) | [<img src="https://avatars.githubusercontent.com/u/70924972?v=4" width=100><br><sub>Jose Luis Capote</sub>](https://github.com/jlcapor) | [<img src="https://avatars.githubusercontent.com/u/94227693?v=4" width=100><br><sub>Miguel Cañate</sub>](https://github.com/MiguelCagnate) | 
